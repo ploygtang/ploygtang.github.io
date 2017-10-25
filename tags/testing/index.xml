@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Ploy Tang</title>
+    <link>http://ploytang.com/tags/testing/</link>
+    <description>Recent content in Testing on Ploy Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 Oct 2017 16:26:10 +1100</lastBuildDate>
+    
+	<atom:link href="http://ploytang.com/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a modern PHP Project with great Workflow</title>
+      <link>http://ploytang.com/posts/php-project-setup/</link>
+      <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
+      
+      <guid>http://ploytang.com/posts/php-project-setup/</guid>
+      <description>Overview This post is about setting up a new PHP project. When creating a new project, it is important to make sure that the workflow is easy to follow and can later be automated. See Continuous Integration
+Summary  We are going to use Composer Autoload to manage our packages and dependencies. &amp;ndash; Everytime a new class is added, autoload file will have to be regenerated. Sample code contains a Cat class with two unit tests.</description>
+    </item>
+    
+  </channel>
+</rss>
