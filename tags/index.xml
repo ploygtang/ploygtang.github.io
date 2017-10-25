@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ploy Tang</title>
-    <link>http://ploytang.com/tags/</link>
+    <link>http://www.ploytang.com/tags/</link>
     <description>Recent content in Tags on Ploy Tang</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 24 Oct 2017 16:26:10 +1100</lastBuildDate>
     
-	<atom:link href="http://ploytang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ploytang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ci</title>
-      <link>http://ploytang.com/tags/ci/</link>
+      <link>http://www.ploytang.com/tags/ci/</link>
       <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
       
-      <guid>http://ploytang.com/tags/ci/</guid>
+      <guid>http://www.ploytang.com/tags/ci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Composer</title>
-      <link>http://ploytang.com/tags/composer/</link>
+      <link>http://www.ploytang.com/tags/composer/</link>
       <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
       
-      <guid>http://ploytang.com/tags/composer/</guid>
+      <guid>http://www.ploytang.com/tags/composer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>http://ploytang.com/tags/php/</link>
+      <link>http://www.ploytang.com/tags/php/</link>
       <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
       
-      <guid>http://ploytang.com/tags/php/</guid>
+      <guid>http://www.ploytang.com/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phpunit</title>
-      <link>http://ploytang.com/tags/phpunit/</link>
+      <link>http://www.ploytang.com/tags/phpunit/</link>
       <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
       
-      <guid>http://ploytang.com/tags/phpunit/</guid>
+      <guid>http://www.ploytang.com/tags/phpunit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>http://ploytang.com/tags/testing/</link>
+      <link>http://www.ploytang.com/tags/testing/</link>
       <pubDate>Tue, 24 Oct 2017 16:26:10 +1100</pubDate>
       
-      <guid>http://ploytang.com/tags/testing/</guid>
+      <guid>http://www.ploytang.com/tags/testing/</guid>
       <description></description>
     </item>
     

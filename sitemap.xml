@@ -3,83 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ploytang.com/</loc>
+    <loc>http://www.ploytang.com/</loc>
     <lastmod>2017-10-24T16:33:06+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/posts/php-project-setup/</loc>
+    <loc>http://www.ploytang.com/posts/php-project-setup/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/about/</loc>
+    <loc>http://www.ploytang.com/about/</loc>
     <lastmod>2017-10-24T15:34:29+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/categories/</loc>
+    <loc>http://www.ploytang.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/ci/</loc>
+    <loc>http://www.ploytang.com/tags/ci/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/composer/</loc>
+    <loc>http://www.ploytang.com/tags/composer/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/categories/development/</loc>
+    <loc>http://www.ploytang.com/categories/development/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/php/</loc>
+    <loc>http://www.ploytang.com/tags/php/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/phpunit/</loc>
+    <loc>http://www.ploytang.com/tags/phpunit/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/posts/</loc>
+    <loc>http://www.ploytang.com/posts/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/</loc>
+    <loc>http://www.ploytang.com/tags/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ploytang.com/tags/testing/</loc>
+    <loc>http://www.ploytang.com/tags/testing/</loc>
     <lastmod>2017-10-24T16:26:10+11:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
